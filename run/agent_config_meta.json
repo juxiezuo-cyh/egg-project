@@ -1,0 +1,305 @@
+{
+  "keys": "/Users/chengyuhan/学习/egg-example/config/config.default.js",
+  "middleware": "/Users/chengyuhan/学习/egg-example/config/config.default.js",
+  "view": {
+    "mapping": {
+      ".html": "/Users/chengyuhan/学习/egg-example/config/config.default.js"
+    },
+    "root": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/chengyuhan/学习/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/chengyuhan/学习/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/chengyuhan/学习/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/chengyuhan/学习/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/chengyuhan/学习/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/chengyuhan/学习/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/chengyuhan/学习/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/chengyuhan/学习/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/chengyuhan/学习/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/chengyuhan/学习/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/chengyuhan/学习/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/chengyuhan/学习/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/chengyuhan/学习/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/chengyuhan/学习/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/chengyuhan/学习/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/chengyuhan/学习/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/chengyuhan/学习/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/chengyuhan/学习/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/chengyuhan/学习/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/chengyuhan/学习/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "ejs": {
+    "root": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.default.js",
+    "cache": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.local.js",
+    "debug": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.default.js",
+    "strict": "/Users/chengyuhan/学习/egg-example/node_modules/egg-view-ejs/config/config.default.js"
+  },
+  "env": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-ejs": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/chengyuhan/学习/egg-example/node_modules/egg/config/config.default.js"
+}
