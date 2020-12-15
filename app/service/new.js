@@ -10,6 +10,14 @@ class NewController extends Controller {
     const data = JSON.parse(res.data);
     return data.result;
   }
+
+  async getNewsContent(aid) {
+    // 获取新闻详情
+    const url = this.config.api + 'appapi.php?a=getPortalArticle?aid=' + aid;
+    const res = await this.ctx.curl(url);
+    const data = JSON.parse(res.data);
+    return data.result;
+  }
 }
 
 module.exports = NewController;
