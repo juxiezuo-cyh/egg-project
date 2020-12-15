@@ -30,6 +30,7 @@ module.exports = appInfo => {
     },
   };
 
+  config.api = 'http://www.phonegap100.com/';
   return {
     ...config,
     ...userConfig,
