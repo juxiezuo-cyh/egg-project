@@ -154,3 +154,9 @@
 2020-12-15 00:58:31,596 INFO 2608 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2020-12-15 00:58:31,596 INFO 2608 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
 2020-12-15 00:58:31,596 INFO 2608 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-12-15 19:54:53,790 INFO 11951 [Timer] /Users/chengyuhan/学习/egg-project/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 30906212ms at 2020-12-16 04:30:00.002
+2020-12-15 19:54:53,791 INFO 11951 [Timer] /Users/chengyuhan/学习/egg-project/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 14706209ms at 2020-12-16 00:00:00.000
+2020-12-15 19:54:53,791 INFO 11951 [Timer] /Users/chengyuhan/学习/egg-project/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 14707209ms at 2020-12-16 00:00:01.000
+2020-12-15 19:54:53,562 INFO 11955 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-project/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-12-15 19:54:53,562 INFO 11955 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-project/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-12-15 19:54:53,562 INFO 11955 [egg-schedule]: register schedule /Users/chengyuhan/学习/egg-project/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
